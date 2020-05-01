@@ -1,0 +1,5 @@
+C:\Users\Student.LABTOPG011860\Documents\GitHub\CIS123\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojAssemblyReference.cache
+C:\Users\Student.LABTOPG011860\Documents\GitHub\CIS123\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.frmSimpleCalculator.resources
+C:\Users\Student.LABTOPG011860\Documents\GitHub\CIS123\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Users\Student.LABTOPG011860\Documents\GitHub\CIS123\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\Student.LABTOPG011860\Documents\GitHub\CIS123\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
